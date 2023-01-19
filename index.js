@@ -5,4 +5,6 @@ import Image from "components/Image";
 import Markdown from "components/Markdown";
 import Spacer from "components/Spacer";
 
-export { Button, Card, Carussel, Image, Markdown, Spacer };
+import Fonts from "lib/fonts";
+
+export { Button, Card, Carussel, Image, Markdown, Spacer, Fonts };
